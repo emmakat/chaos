@@ -1,12 +1,12 @@
 # chaos resources
 chaos resources
 
-https://github.com/dastergon/awesome-chaos-engineering
-https://coggle.it/diagram/WiKceGDAwgABrmyv/t/chaos-engineering-companies%2C-people%2C-tools-practices/0a2d4968c94723e48e1256e67df51d0f4217027143924b23517832f53c536e62
-https://www.gremlin.com/community/tutorials/chaos-engineering-the-history-principles-and-practice/
-https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-controlled-chaos
-https://principlesofchaos.org/
-https://github.com/chaostoolkit-incubator/chaostoolkit-azure
+*https://github.com/dastergon/awesome-chaos-engineering
+*https://coggle.it/diagram/WiKceGDAwgABrmyv/t/chaos-engineering-companies%2C-people%2C-tools-practices/0a2d4968c94723e48e1256e67df51d0f4217027143924b23517832f53c536e62
+*https://www.gremlin.com/community/tutorials/chaos-engineering-the-history-principles-and-practice/
+*https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-controlled-chaos
+*https://principlesofchaos.org/
+*https://github.com/chaostoolkit-incubator/chaostoolkit-azure
 
 Chaos Engineering can be thought of as the facilitation of experiments to uncover systemic weaknesses.  These experiments follow four steps:
 Start by defining ‘steady state’ as some measurable output of a system that indicates normal behavior.
